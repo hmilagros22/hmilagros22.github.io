@@ -1,0 +1,217 @@
+
+
+
+
+
+
+.menu{
+	background: hsl(203, 16%, 37%);
+	color: #faf8f8;
+	padding: 3px 40px 3px 3%
+}	
+	.menu a {
+		color: #fdf8f8;
+		font-weight: bold;
+	}
+
+	nav {
+		float:inline-start
+	}
+		nav ul {
+			margin: 0;
+			padding: 0;
+			list-style: none;
+			padding-right: 0%;
+		}
+		
+			nav ul li {
+				display: inline-block;
+				line-height: 60px;
+			}
+				
+				nav ul li a {
+					display: block;
+					padding: 0% 40px;
+					text-decoration: none;
+				}
+				
+					nav ul li a:hover {
+						background: #18212b;
+					}
+#Imagen{
+	margin-left: 44%;
+	border-radius: 50%;
+    width: 11%;  
+}
+
+dl li {
+	color: #bfd4f5;
+	font-size: 19px;
+}
+dl dd {
+	color: aliceblue;
+	font-size: 16;
+}
+.titulos {
+    color: #bdd8e7;
+    font-size: 60px;
+    padding-top: 0;
+	padding-left: 20px;
+ }
+ dt.laboral{
+	color: #bfd4f5;
+    font-size: 25px;
+ }
+  dd.laboral{
+	color: aliceblue;
+	font-size: 20px;
+ }
+ #Girasoles {
+    width: 20%;
+	border-color: #a2d1f7;
+	border-style: solid;
+ }
+
+ #Margaritas {
+	width: 20%;
+	border-style: solid;
+	border-color: #a2d1f7;
+ }
+ #Manchas {
+	width: 20%;
+	border-style: solid;
+	border-color: #a2d1f7;
+ }
+ #Colores {
+	width: 20%;
+	border-style: solid;
+	border-color: #a2d1f7;
+ }
+ #hRosa{
+	width: 15.12%;
+	border-style: solid;
+	border-color: #a2d1f7;
+	
+ }
+ #hMarron{
+	width: 15%;
+	border-style: solid;
+	border-color: #a2d1f7;
+ }
+ #Feria{
+	margin-left: 15%;
+	width: 70%;
+	border-style: solid;
+	border-color: #a2d1f7;
+ }
+
+body{
+	height: 100%; 
+	font-family: 'Noto Sans', sans-serif;
+	background-color: #90aff1; 
+  }
+  
+  
+  .contact_form{  
+	width: 450px; 
+	height: 10%;
+	margin: 90px auto;
+	border-radius: 10px;  
+	padding-top: 30px;
+	padding-bottom: 10px;  
+	background-color: #fcfafa; 
+	padding-left: 20px; 
+  }
+  
+  
+  input{
+	background-color: #fcf8f8; 
+	width: 400px; 
+	height: 40px; 
+	border-radius: 5px;  
+	border-style: solid; 
+	border-width: 1px; 
+	border-color: #4465ab; 
+	margin-top: 10px;  
+	padding-left: 10px;
+	margin-bottom: 20px; 
+  }
+  
+  
+  textarea{
+	background-color: #fbfbfb; 
+	width: 405px; 
+	height: 150px; 
+	border-radius: 5px;  
+	border-style: solid; 
+	border-width: 1px; 
+	border-color: #89b4f3; 
+	margin-top: 10px;  
+	padding-left: 10px;
+	margin-bottom: 20px; 
+	padding-top: 15px; 
+  }
+  
+   button{
+	height: 45px; 
+	padding-left: 5px;
+	padding-right: 5px;   
+	margin-bottom: 20px; 
+	margin-top: 10px;   
+	background-color: #6091a8; 
+	border-color: #4d8097; 
+	border-style: solid; 
+	border-radius: 10px;  
+	width: 420px; 
+  }
+  
+  
+  button label{
+	color: #f5f1f1; 
+  }
+  
+  
+  span{
+	color: #0e1214; 
+  }
+  
+  
+  .aviso{
+	font-size: 13px;  
+	color: #0e0e0e;  
+  }
+  
+  
+  h3{
+	font-size: 15px; 
+	padding-bottom: 30px;
+	color: #4f5574;   
+  }
+  
+  
+  p{
+	font-size: 12px; 
+	color: #0e0e0e; 
+  }
+  
+  
+  ::-webkit-input-placeholder {
+   color: #a8a8a8;
+  }
+  
+  
+  ::-webkit-textarea-placeholder {
+   color: #78abe4;
+  }
+  
+  
+  .formulario input:focus{
+	outline:0;
+	border: 1px solid #749fe0;
+  }
+  
+  
+  .formulario textarea:focus{
+	outline:0;
+	border: 1px solid #749fe0;
+  }

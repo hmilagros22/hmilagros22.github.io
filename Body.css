@@ -1,0 +1,20 @@
+body{
+    
+ background: rgb(36, 0, 17);
+background: linear-gradient(90deg, rgb(34, 65, 65) 0%, rgb(19, 38, 46) 35%, rgb(3, 15, 39) 100%);
+
+}
+h1{
+    color: #bdd8e7;
+    padding-left: 39%;
+    padding-top: 5%;
+    font-size: 70px;
+}    
+hr{
+    width: 30%;
+}
+p.P{
+    color: #c0ddee;
+    font-size: 25px;
+    margin: 70px;
+}
